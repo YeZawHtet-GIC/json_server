@@ -17,6 +17,12 @@
       "title": "Third Blog",
       "body": "This is third blog",
       "author": "yoshi"
+    },
+    {
+      "id": "22bv",
+      "title": "How to Use LocalStorage in JavaScript",
+      "body": "Local storage is a feature in web browsers that allows developers to save data in the users browser. Its part of the web storage API, together with session storage.",
+      "author": "yoshi"
     }
   ]
 }
